@@ -1,3 +1,3 @@
 # odin-recipes
 Primer Proyecto
-el html esta terminado, ahra falta el css y javascript
+el html esta terminado, ahora falta el css y javascript
