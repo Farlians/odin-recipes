@@ -1,2 +1,2 @@
 # odin-recipes
-Primer Proyecto
+Proyecto de recetras 
